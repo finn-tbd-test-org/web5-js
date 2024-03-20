@@ -6,6 +6,7 @@
 [![License](https://img.shields.io/npm/l/@web5/api.svg?style=flat-square&color=24f2ff&logo=apache&logoColor=FFFFFF&santize=true)](https://github.com/TBD54566975/web5-js/blob/main/LICENSE)
 [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg?style=flat-square&color=9a1aff&logo=discord&logoColor=FFFFFF&sanitize=true)](https://discord.com/channels/937858703112155166/969272658501976117)
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/TBD54566975/web5-js/badge)](https://securityscorecards.dev/viewer/?uri=github.com/TBD54566975/web5-js)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffinn-tbd-test-org%2Fweb5-js.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffinn-tbd-test-org%2Fweb5-js?ref=badge_shield)
 
 Making developing with Web5 components at least 5 times easier to work with.
 
@@ -532,3 +533,7 @@ git push
 | [CONTRIBUTING.md](./CONTRIBUTING.md)       | Developer guide to build, test, run, access CI, chat, discuss, file issues    |
 | [GOVERNANCE.md](./GOVERNANCE.md)           | Project governance                                                            |
 | [LICENSE](./LICENSE)                       | Apache License, Version 2.0                                                   |
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffinn-tbd-test-org%2Fweb5-js.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffinn-tbd-test-org%2Fweb5-js?ref=badge_large)
